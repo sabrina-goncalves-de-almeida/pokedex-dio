@@ -13,10 +13,11 @@ console.log("Olá mundo!");
 |`texto`		|	texto		|
 
 ### O que foi aprendido com este projeto
-- Oi
-- Sou
-- Uma
-- Lista
+- Como usar o http server
+- Como funciona a estrutura cliente/servidor
+- Para que serve o http server
+- Porque é útil simular a estrutura cliente/servidor
+- 
 
 ### Fazendo alteração para fechar a Issue
 - Fazendo amais uma alteração para fechar a nova Issue
