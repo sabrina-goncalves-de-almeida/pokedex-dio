@@ -17,7 +17,5 @@ console.log("Olá mundo!");
 - Como funciona a estrutura cliente/servidor
 - Para que serve o http server
 - Porque é útil simular a estrutura cliente/servidor
-- 
-
-### Fazendo alteração para fechar a Issue
-- Fazendo amais uma alteração para fechar a nova Issue
+- Revisão de HTML
+- Revisão de CSS
