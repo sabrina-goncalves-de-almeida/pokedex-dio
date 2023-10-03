@@ -7,10 +7,10 @@ console.log("Olá mundo!");
 [link para a hospedagem do github(a adicionar)](https://github.com/sabrina-goncalves-de-almeida/)
 
 ### Tabela
-| texto header 1 | texto header 2	|
+| Curso | página html	|
 |---------|------------------|
-|texto		|	texto		|
-|`texto`		|	texto		|
+|Curso 1		|	teste.html		|
+|Curso 2		|	index.html		|
 
 ### O que foi aprendido com este projeto
 - Como usar o http server
